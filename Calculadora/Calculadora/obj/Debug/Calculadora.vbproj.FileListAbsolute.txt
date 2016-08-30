@@ -1,0 +1,22 @@
+d:\Users\Santiago\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+d:\Users\Santiago\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+d:\Users\Santiago\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+d:\Users\Santiago\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+d:\Users\Santiago\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.vbprojResolveAssemblyReference.cache
+d:\Users\Santiago\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\WindowsApplication1.Calculadora.resources
+d:\Users\Santiago\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\WindowsApplication1.Resources.resources
+d:\Users\Santiago\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache
+d:\Users\Santiago\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+d:\Users\Santiago\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.xml
+d:\Users\Santiago\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Alumno\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Alumno\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Alumno\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.xml
+C:\Users\Alumno\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Alumno\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Alumno\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Alumno\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+C:\Users\Alumno\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Calculadora\Calculadora\obj\Debug\WindowsApplication1.Calculadora.resources
+C:\Users\Alumno\Desktop\Calculadora\Calculadora\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Alumno\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache
